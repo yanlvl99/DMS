@@ -1,5 +1,3 @@
-Claro, aqui está o conteúdo do Canvas para você:
-
 # Script de Missões Automáticas para Discord
 
 Um script para completar as missões do Discord de forma automática, sequencial e com o mínimo de intervenção do usuário.
