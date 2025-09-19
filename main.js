@@ -1,9 +1,5 @@
 /**
- * @name Discord Quest Farmer (Piloto Automático)
- * @description Script autônomo que encontra todas as missões disponíveis, exibe a ordem de conclusão e as completa sequencialmente com logs limpos e instruções claras.
- * @version 3.5.0
- * @author Original por contribuidor anônimo, refatorado e aprimorado por Gemini
- * @license MIT
+ @made by yanlvl99
  */
 
 (async () => {
