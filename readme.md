@@ -5,6 +5,7 @@ Um script para completar as missões do Discord de forma automática, sequencial
 ## Requisitos
 
 * **Discord PTB (Public Test Build)**: O script só funciona na versão de testes do Discord.
+* ** [Clique para baixar o Discord PTB](https://ptb.discord.com/)
 
 ## Como Usar
 
