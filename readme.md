@@ -15,7 +15,7 @@ Siga os passos abaixo:
 2.  **Copie todo o código:** Pressione `Ctrl` + `A` para selecionar tudo e depois `Ctrl` + `C` para copiar.
 3.  Abra o seu **Discord PTB**.
 4.  Abra o Console de Desenvolvedor pressionando `Ctrl` + `Shift` + `I`.
-5.  **Cole o código** que você copiou no console e pressione `Enter`.
+5.  **Cole o código** que você copiou no console e pressione `Enter`, caso seja sua primeira vez colando algo ele vai pedir uma confirmação e você escreve `allow pasting`.
 6.  O script começará a funcionar automaticamente. Acompanhe o progresso pelo console.
 
 ## Aviso Legal
