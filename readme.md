@@ -1,23 +1,26 @@
-# Script de Missões Automáticas para Discord
+# Yan's Quest Tools
 
-Um script para completar as missões do Discord de forma automática, sequencial e com o mínimo de intervenção do usuário.
+A script to automatically complete Discord quests sequentially, requiring minimal user intervention.
 
-## Requisitos
+## Requirements
 
-* **Discord PTB (Public Test Build)**: O script só funciona na versão de testes do Discord
-* **Baixe o Discord PTB:**  [Clique aqui para baixar](https://ptb.discord.com/)
+* **Discord PTB (Public Test Build):** This script is optimized for and tested on the Discord PTB client.
+* **Download Discord PTB:** [Click here to download](https://ptb.discord.com/)
 
-## Como Usar
+## How to Use
 
-Siga os passos abaixo:
+Follow the steps below to start completing your quests:
 
-1.  **Acesse o link do script:** [Clique aqui para ver o código](https://raw.githubusercontent.com/yanlvl99/DMS/refs/heads/main/main.js)
-2.  **Copie todo o código:** Pressione `Ctrl` + `A` para selecionar tudo e depois `Ctrl` + `C` para copiar.
-3.  Abra o seu **Discord PTB**.
-4.  Abra o Console de Desenvolvedor pressionando `Ctrl` + `Shift` + `I`.
-5.  **Cole o código** que você copiou no console e pressione `Enter`, caso seja sua primeira vez colando algo ele vai pedir uma confirmação e você escreve `allow pasting`.
-6.  O script começará a funcionar automaticamente. Acompanhe o progresso pelo console.
+1. **Get the Script:** [Click here to view the code](https://raw.githubusercontent.com/yanlvl99/DMS/refs/heads/main/main.js)
+2. **Copy the Code:** Press `Ctrl` + `A` to select all text, then `Ctrl` + `C` to copy it.
+3. Open your **Discord PTB** client.
+4. Open the Developer Console by pressing `Ctrl` + `Shift` + `I`.
+5. **Paste the Code:** Paste the copied code into the console.
+* *Note:* If this is your first time pasting code into the console, Discord may ask for confirmation. Type `allow pasting` and press `Enter` if prompted.
 
-## Aviso Legal
 
-O uso de scripts para automatizar ações pode ser considerado uma violação dos Termos de Serviço do Discord. Use por sua conta e risco. O desenvolvedor não se responsabiliza por quaisquer consequências negativas, como suspensão ou banimento da conta.
+6. **Run:** Press `Enter` to execute the script. The tool will launch automatically, and you can track progress via the on-screen overlay or the console.
+7. 
+## Disclaimer
+
+Using scripts to automate actions may be considered a violation of Discord's Terms of Service. **Use at your own risk.** The developer is not responsible for any negative consequences, such as account suspension or bans, resulting from the use of this tool.
