@@ -1,4 +1,4 @@
-# Yan's Quest Tools
+# Yan's Discord Quest Tools
 
 A script to automatically complete Discord quests sequentially, requiring minimal user intervention.
 
