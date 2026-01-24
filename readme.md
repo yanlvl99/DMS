@@ -20,7 +20,6 @@ Follow the steps below to start completing your quests:
 
 
 6. **Run:** Press `Enter` to execute the script. The tool will launch automatically, and you can track progress via the on-screen overlay or the console.
-7. 
 ## Disclaimer
 
 Using scripts to automate actions may be considered a violation of Discord's Terms of Service. **Use at your own risk.** The developer is not responsible for any negative consequences, such as account suspension or bans, resulting from the use of this tool.
